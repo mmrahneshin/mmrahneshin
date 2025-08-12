@@ -1,8 +1,8 @@
-👋 Hi, I’m Mohammad Mahdi Rahneshin (@mmrahneshin)
-👀 I’m interested in machine learning, large language models, ML for healthcare, and data mining.
-🌱 I’m currently working on predictive maintenance for VRLA batteries in UPS systems using Gradient Boosted Decision Trees at Ferdowsi University with Nian Electronic Company.
-📫 How to reach me: mmrahneshin@gmail.com
-💞️ Check out my personal portfolio too! https://mmrahneshin.github.io/
+- 👋 Hi, I’m Mohammad Mahdi Rahneshin (@mmrahneshin)
+- 👀 I’m interested in machine learning, large language models, ML for healthcare, and data mining.
+- 🌱 I’m currently working on predictive maintenance for VRLA batteries in UPS systems using Gradient Boosted Decision Trees at Ferdowsi University with Nian Electronic Company.
+- 📫 How to reach me: mmrahneshin@gmail.com
+- 💞️ Check out my personal portfolio too! https://mmrahneshin.github.io/
 
 <!--
 **mmrahneshin/mmrahneshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
